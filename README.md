@@ -1,7 +1,7 @@
 # SDCND_Term2_UKF
 
 ## Unscented Kalman Filter Project
-The project uses a unscented kalman filter to estimate the state of the moving object from the noisy RADAR and LIDAR measurements of the position and velocity of an object.
+The project uses an unscented kalman filter to estimate the state of the moving object from the noisy RADAR and LIDAR measurements of the position and velocity of an object.
 - Here the RMSE values are lower than the tolerance value mentioned in the project rubric.
 
 This project involves the Term 2 Simulator which can be downloaded [here](https://github.com/udacity/self-driving-car-sim/releases). Follow the instructions present in the classroom section 'uWebSocketIO Starter Guide' for the environment setup.
